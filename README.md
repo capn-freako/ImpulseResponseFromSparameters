@@ -2,6 +2,8 @@
 
 A comparison of different techniques (i.e. - windowing, vector fitting, etc.) for extracting the impulse response from S-parameters.
 
+**Note:** You can use the contents widget (just to the right of the pencil widget, above right) to navigate this content.
+
 ## Introduction & General Intent
 
 On August 25, 2020 I had an article published in Signal Integrity Journal (SIJ) titled, _Impulse Response from Insertion Loss_.
