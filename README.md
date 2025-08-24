@@ -35,3 +35,10 @@ The intent of this repo. is twofold:
 	- Inverse Fourier transforming, with and without pre-windowing,
 	- Vector fitting, using the _Bilinear Transform_,
 	- others?
+
+## Repository Contents
+
+This Github repository contains the following files:
+
+`.gitignore`
+:    Contains a list of filename patterns to ignore when reporting status and/or suggesting files to add.
