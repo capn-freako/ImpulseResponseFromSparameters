@@ -25,7 +25,13 @@ The intent of this repo. is twofold:
 	- [my original SIJ article](https://www.signalintegrityjournal.com/articles/1847-impulse-response-from-insertion-loss),
 	- [the SIJ webinar rebutting my article, by Prof. Morales & Agili](https://www.signalintegrityjournal.com/ext/resources/Media-Kit-2022/DrAldoMorales_The-Use-of-DSP-Techniques-to-Analyze-S-Parameter-Sampled-Data_2022.pdf),
 	- [my Gist critiquing some of the reasoning behind their rebuttal](https://gist.github.com/capn-freako/782135b2914662c6c1fc40b9256f251f), and
-	- [Professor Morales' comments on that Gist](https://gist.github.com/capn-freako/782135b2914662c6c1fc40b9256f251f?permalink_comment_id=5178891#gistcomment-5178891).
+	- [Professor Morales' comments on that Gist](https://gist.github.com/capn-freako/782135b2914662c6c1fc40b9256f251f?permalink_comment_id=5178891#gistcomment-5178891). (Scroll to bottom if not initially visible.)
 		- **Note:** Please, do _not_ add to this commentary, but instead use an _Issue_ in this new repo. to further discussion.
 		And, please, try to keep a 1:1 relationship between _Issues_ and discussion topics.
 		That will keep the various topics being debated well separated and assist new participants in acclimating quickly.
+
+2. To provide a central public space for developing our communal understanding of the pros & cons of the various techniques available for extracting the _impulse response_ from the S-parameters:
+
+	- Inverse Fourier transforming, with and without pre-windowing,
+	- Vector fitting, using the _Bilinear Transform_,
+	- others?
