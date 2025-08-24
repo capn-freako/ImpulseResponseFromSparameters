@@ -40,5 +40,7 @@ The intent of this repo. is twofold:
 
 This Github repository contains the following files:
 
-`.gitignore`
-:    Contains a list of filename patterns to ignore when reporting status and/or suggesting files to add.
+- `README.md`: (This file)
+- `.gitignore`: Contains a list of filename patterns to ignore when reporting status and/or suggesting files to add.
+- `ImpulseResponseFromSparams.ipynb`: My critique of Professors Morales and Agili's rebuttal of my SIJ article, as a _Jupyter_ notebook.
+- `LICENSE`: Contains the details of the BSD-3 license, which governs the use of this work.
