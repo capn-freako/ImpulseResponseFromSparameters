@@ -2,6 +2,8 @@
 
 A comparison of different techniques (i.e. - windowing, vector fitting, etc.) for extracting the impulse response from S-parameters.
 
+**Note:** You can use the contents widget (just to the right of the pencil widget, above right) to navigate this content.
+
 ## Introduction & General Intent
 
 On August 25, 2020 I had an article published in Signal Integrity Journal (SIJ) titled, _Impulse Response from Insertion Loss_.
@@ -44,3 +46,22 @@ This Github repository contains the following files:
 - `.gitignore`: Contains a list of filename patterns to ignore when reporting status and/or suggesting files to add.
 - `ImpulseResponseFromSparams.ipynb`: My critique of Professors Morales and Agili's rebuttal of my SIJ article, as a _Jupyter_ notebook.
 - `LICENSE`: Contains the details of the BSD-3 license, which governs the use of this work.
+
+## References
+
+**Note:** References 1-7 are the same as in Prof. Morales' original comment on my Gist, for convenience.
+
+[1] John Choma, "Scattering Parameters: Concept, Theory, and Applications," Lecture notes, https://www.ieee.li/pdf/essay/scattering_parameters_concept_theory_applications.pdf.
+Last accessed July 23, 2021.
+
+[2] A. Morales and S. Agili, "Analysis of Analog Sampled S-Parameters Data Using DSP Techniques," IEEE Transactions on Instrumentation and Measurement, Vol. 71, January 2022.
+
+[3] P. J. Pupalaikis "The Relationship Between Discrete-Frequency S-parameters and Continuous-Frequency Responses," Proceedings of 2012 Designcon, Santa Clara, CA, February 2012.
+
+[4] Alan V. Oppenheim and Ronald W. Schafer, Discrete-Time Signal Processing, Prentice Hall Signal Processing Series, 1999.
+
+[5] A. Morales, S. Agili and T. Meklachi, "S-Parameter Sampling in the Frequency Domain and its Time Domain Response," IEEE Transactions on Instrumentation and Measurement, Vol. 70 September 2020.
+
+[6] B. Gustavsen and A. Semlyen, "Simulation of transmission line transients using vector fitting and modal decomposition", Power Delivery IEEE Trans, vol. 13, no. 2, pp. 605-614, Apr. 1998.
+
+[7] B. Gustavsen, and A. Semlyen, "Rational Approximation of Frequency Domain Responses by Vector Fitting," IEEE Trans. Power Delivery, Vol. 14, no. 3, pp. 1052-1061, July 1999.
